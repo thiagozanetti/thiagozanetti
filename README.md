@@ -10,7 +10,7 @@
 <a href="https://stackexchange.com/users/1294405"><img src="https://stackexchange.com/users/flair/1294405.png" width="208" height="58" alt="profile for Thiago Zanetti on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Thiago Zanetti on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a>
 
 
-![barba's github stats](https://github-readme-stats.vercel.app/api?username=thiagozanetti&count_private=true)
+<!--![barba's github stats](https://github-readme-stats.vercel.app/api?username=thiagozanetti&count_private=true)-->
 
 <!--
 **thiagozanetti/thiagozanetti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
