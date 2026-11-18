@@ -1,0 +1,39 @@
+
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="900" height="260"
+     viewBox="0 0 900 260">
+  <rect width="900" height="260" rx="14"
+        fill="#101820"/>
+
+  <g font-family="monospace">
+    <text x="36" y="45"
+          fill="#86B49A" font-size="17">
+      ~/thiagozanetti $ whoami
+    </text>
+
+    <text x="36" y="105"
+          fill="#F2F4F2"
+          font-size="39" font-weight="bold">
+      Thiago Zanetti
+    </text>
+
+    <text x="36" y="142"
+          fill="#86B49A" font-size="18">
+      software engineer / problem solver
+    </text>
+
+    <line x1="36" y1="164"
+          x2="864" y2="164"
+          stroke="#364A4A"/>
+
+    <text x="36" y="198"
+          fill="#A4B3BD" font-size="15">
+      20+ years building software
+    </text>
+
+    <text x="36" y="228"
+          fill="#86B49A" font-size="15">
+      question assumptions; reduce complexity; ship useful things_
+    </text>
+  </g>
+</svg>
