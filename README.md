@@ -114,6 +114,6 @@ Away from the keyboard, I'm a proud dad, and sometimes I sing while playing my a
 
 **Open to remote engineering roles, interesting collaborations, and selected freelance projects.**
 
-Other than this GitHub page, you cna find me on [LinkedIn](https://www.linkedin.com/in/thiagozanetti) and through [email](mailto:thiago.project@gmail.com).
+Other than this GitHub page, you can find me on [LinkedIn](https://www.linkedin.com/in/thiagozanetti) and through [email](mailto:thiago.project@gmail.com).
 
 *Feel free to question me. I'll probably question you too.*
